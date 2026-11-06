@@ -1,2 +1,0 @@
-# tugasBiodata
-html dan css
